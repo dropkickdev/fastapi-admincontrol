@@ -21,4 +21,4 @@ pipenv install fastapi-admincontrol
 Documentation
 -------------
 
-View the documentation at: 
+View the documentation at: https://dropkickdev.github.io/fastapi-admincontrol/

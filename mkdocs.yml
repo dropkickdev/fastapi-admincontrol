@@ -1,0 +1,8 @@
+site_name: Fastapi-AdminControl
+theme:
+  name: material
+  palette:
+    primary: purple
+    accent: purple
+  icon:
+    repo: fontawesome/brands/github-alt
